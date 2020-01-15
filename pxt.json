@@ -1,0 +1,19 @@
+{
+    "name": "OLED",
+    "version": "2.1.0",
+    "description": "创乐博block:bit/micro:bit OLED 128 × 64 扩展",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "pxtparts.json",
+        "OLED.ts",
+        "parts/OLED12864_I2C.svg"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
